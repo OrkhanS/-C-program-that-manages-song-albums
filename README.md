@@ -12,3 +12,6 @@ described by a name, a duration of the song in minutes, and a genre.
 - Use clean readable code
 - Create your own data to test every functionality in the system
 - You must give a demo to the TA to claim your mark
+
+## License
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
